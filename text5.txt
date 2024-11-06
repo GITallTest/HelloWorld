@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0A64-35C6
+
+ Directory of C:\Users\sonal\OneDrive\Desktop\JP1
+
+07-11-2024  02:04    <DIR>          .
+07-11-2024  01:13    <DIR>          ..
+03-11-2024  18:38               226 .classpath
+05-11-2024  21:23               670 .project
+03-11-2024  18:35               156 HelloJava.java
+07-11-2024  02:02               909 helloWorld.class
+07-11-2024  02:04                 0 text5.txt
+               5 File(s)          1,961 bytes
+               2 Dir(s)  40,694,407,168 bytes free
